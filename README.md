@@ -1,3 +1,3 @@
 # MessageDecoder
 
-Input the message here.
+This program decodes a cryptic message in the form of a composite number.
