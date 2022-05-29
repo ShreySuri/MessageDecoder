@@ -17,36 +17,43 @@ for i in range (0, counter):
     
     if remainder == "10":
         print("0")
-    elif remainder = "11":
+    elif remainder == "11":
         print("1")
-    elif remainder = "12":
+    elif remainder == "12":
         print("2")
-    elif remainder = "13":
+    elif remainder =="13":
         print("3")
-    elif remainder = "14":
+    elif remainder == "14":
         print("4")
-    elif remainder = "15"
+    elif remainder == "15"
         print("5")
-    elif remainder = "16":
+    elif remainder == "16":
         print("6")
-    elif remainder = "17":
+    elif remainder == "17":
         print("7")
-    elif remainder = "18":
+    elif remainder == "18":
         print("8")
-    elif remainder = "19":
+    elif remainder == "19":
         print("9")
-    elif remainder = "20":
+
+    elif remainder == "20":
         print("a")
-    elif remainder = "21":
+    elif remainder == "21":
         print("b")
-    elif remainder = "22":
+    elif remainder == "22":
         print("c")
-    elif remainder = "23":
+    elif remainder == "23":
         print("d")
-    elif remainder = "24":
+    elif remainder == "24":
         print("e")
-    elif remainder = "25":
+    elif remainder == "25":
         print("f")
+    elif remainder == "26":
+        print("g")
+    elif remainder == "27":
+        print("h")
+    elif remainder = "28":
+        print("i")
     
     
         print("")
