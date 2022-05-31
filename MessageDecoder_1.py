@@ -7,10 +7,8 @@ characters = 0
 while composite >= 100 ** characters:
     characters = characters + 1
 
-counter = characters
 
-for i in range (0, counter):
-    characters = counter - characters
+for i in range (0, characters):
     remainder = composite % 100
     quotient = (composite - remainder)/100
     remainder = str(remainder)
@@ -25,7 +23,7 @@ for i in range (0, counter):
         print("3")
     elif remainder == "14":
         print("4")
-    elif remainder == "15"
+    elif remainder == "15":
         print("5")
     elif remainder == "16":
         print("6")
@@ -80,69 +78,88 @@ for i in range (0, counter):
         print("u")
     elif remainder == "42":
         print("v")
-    elif remainder == "25":
+    elif remainder == "43":
         print("w")
-    elif remainder == "26":
+    elif remainder == "44":
         print("x")
-    elif remainder == "27":
+    elif remainder == "45":
         print("y")
-    elif remainder == "28":
+    elif remainder == "46":
         print("z")
-    elif remainder == "29":
+
+    elif remainder == "47":
         print("A")
-    elif remainder == "30":
+    elif remainder == "48":
         print("B")
-    elif remainder == "31":
+    elif remainder == "49":
         print("C")
-    elif remainder == "32":
+    elif remainder == "50":
         print("D")
-    elif remainder == "33":
+    elif remainder == "51":
         print("E")
-    elif remainder == "34":
+    elif remainder == "52":
         print("F")
-    elif remainder == "35":
+    elif remainder == "53":
         print("G")
-    elif remainder == "37":
+    elif remainder == "54":
         print("H")
-    elif remainder == "32":
+    elif remainder == "55":
         print("I")
-    elif remainder == "33":
+    elif remainder == "56":
         print("J")
-    elif remainder == "34":
+    elif remainder == "57":
         print("K")
-    elif remainder == "35":
+    elif remainder == "58":
         print("L")
-    elif remainder == "37":
+    elif remainder == "59":
         print("M")
-    elif remainder == "20":
+    elif remainder == "60":
         print("N")
-    elif remainder == "21":
+    elif remainder == "61":
         print("O")
-    elif remainder == "22":
+    elif remainder == "62":
         print("P")
-    elif remainder == "23":
+    elif remainder == "63":
         print("Q")
-    elif remainder == "24":
+    elif remainder == "64":
         print("R")
-    elif remainder == "25":
+    elif remainder == "65":
         print("S")
-    elif remainder == "26":
+    elif remainder == "66":
         print("T")
-    elif remainder == "27":
+    elif remainder == "67":
         print("U")
-    elif remainder == "28":
+    elif remainder == "68":
         print("V")
-    elif remainder == "29":
+    elif remainder == "69":
         print("W")
-    elif remainder == "30":
+    elif remainder == "70":
         print("X")
-    elif remainder == "31":
+    elif remainder == "71":
         print("Y")
-    elif remainder == "32":
+    elif remainder == "72":
         print("Z")
-    
-    
+
+    elif remainder == "73":
+        print("'")
+    elif remainder == "74":
+        print(",")
+    elif remainder == "75":
+        print("/")
+    elif remainder == "76":
         print("")
-        print("You have typed an unrecognized symbol. Please refresh the program, follow directions, and try again. ")
-        
-    place_value = place_value - 1
+    elif remainder == "77":
+        print(":")
+    elif remainder == "78":
+        print(";")
+    elif remainder == "79":
+        print(".")
+    elif remainder == "80":
+        print("!")
+    elif remainder == "81":
+        print("?")
+    else:
+        print("You have typed an unrecognized symbol")
+    
+    composite = quotient
+  
