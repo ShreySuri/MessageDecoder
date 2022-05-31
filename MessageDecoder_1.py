@@ -70,7 +70,76 @@ for i in range (0, counter):
         print("p")
     elif remainder == "37":
         print("q")
-    
+    elif remainder == "38":
+        print("r")
+    elif remainder == "39":
+        print("s")
+    elif remainder == "40":
+        print("t")
+    elif remainder == "41":
+        print("u")
+    elif remainder == "42":
+        print("v")
+    elif remainder == "25":
+        print("w")
+    elif remainder == "26":
+        print("x")
+    elif remainder == "27":
+        print("y")
+    elif remainder == "28":
+        print("z")
+    elif remainder == "29":
+        print("A")
+    elif remainder == "30":
+        print("B")
+    elif remainder == "31":
+        print("C")
+    elif remainder == "32":
+        print("D")
+    elif remainder == "33":
+        print("E")
+    elif remainder == "34":
+        print("F")
+    elif remainder == "35":
+        print("G")
+    elif remainder == "37":
+        print("H")
+    elif remainder == "32":
+        print("I")
+    elif remainder == "33":
+        print("J")
+    elif remainder == "34":
+        print("K")
+    elif remainder == "35":
+        print("L")
+    elif remainder == "37":
+        print("M")
+    elif remainder == "20":
+        print("N")
+    elif remainder == "21":
+        print("O")
+    elif remainder == "22":
+        print("P")
+    elif remainder == "23":
+        print("Q")
+    elif remainder == "24":
+        print("R")
+    elif remainder == "25":
+        print("S")
+    elif remainder == "26":
+        print("T")
+    elif remainder == "27":
+        print("U")
+    elif remainder == "28":
+        print("V")
+    elif remainder == "29":
+        print("W")
+    elif remainder == "30":
+        print("X")
+    elif remainder == "31":
+        print("Y")
+    elif remainder == "32":
+        print("Z")
     
     
         print("")
