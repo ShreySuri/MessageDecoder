@@ -52,8 +52,25 @@ for i in range (0, counter):
         print("g")
     elif remainder == "27":
         print("h")
-    elif remainder = "28":
+    elif remainder == "28":
         print("i")
+    elif remainder == "29":
+        print("j")
+    elif remainder == "30":
+        print("k")
+    elif remainder == "31":
+        print("l")
+    elif remainder == "32":
+        print("m")
+    elif remainder == "33":
+        print("n")
+    elif remainder == "34":
+        print("o")
+    elif remainder == "35":
+        print("p")
+    elif remainder == "37":
+        print("q")
+    
     
     
         print("")
