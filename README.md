@@ -7,3 +7,5 @@ The recipient then multiplies the number, in this case 3000, by a prime known on
 Finally, this number is sent to the original recipient, who divides by the prime only they know, yielding 1000.
 
 If done properly, only the sender and recipient would know the message. 
+The prime numbers would have to be different for each message, however.
+The prime numbers would have to be different for each message, however.
